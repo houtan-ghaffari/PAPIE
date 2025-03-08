@@ -25,6 +25,8 @@ Main libraries:
 * scikit-learn: 1.5.0
 * requests: 2.32.2
 
+It should work with other versions of these libraries too, these are just the ones I had on my system at the time. Any PyTorch 2 > is probably fine.
+
 # Citation
 Kindly consider citing the following paper if our results were helpful to your work:
 
