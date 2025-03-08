@@ -13,7 +13,7 @@ I left everything in the papie.ipynb.
 Run the code in xc_download to get the dataset directly from Xeno-Canto. The metadata file is already curated and contains the peaks and other stuff like labels, train-val-test splits, and lengths. Please do not change the code for parallel or faster downloading in any way, do not remove the sleep timer between the download, and do not spread it for misuse. They will punish you quickly if you start downloading fast and a lot, so don't get curious to lose your access. If your IP got blocked but you were downloading with good intentions and with this same slow single process code, mail Xeno-Canto and ask for help. Good luck!
 
 ## Libraries
-Main libraries that we used are:
+Main libraries:
 * python: 3.11.9
 * pytorch: 2.3.0
 * torchaudio: 2.3.0
