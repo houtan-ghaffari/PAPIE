@@ -1,5 +1,5 @@
 # PAPIE
-This repository contains code for the paper [Robust Weakly Supervised Bird Species Detection via Peak Aggregation and PIE]() (accepted at TASLPRO, link will be available soon) by Houtan Ghaffari and Paul Devos.
+This repository contains code for the paper [Robust Weakly Supervised Bird Species Detection via Peak Aggregation and PIE](https://doi.org/10.1109/TASLPRO.2025.3552983) by Houtan Ghaffari and Paul Devos.
 
 ## What's this?
 Peak-Aggregation (PA) is a simple and robust training strategy that alleviates the problem of misleading input-output pairs in very long and weakly labeled audio recordings. You can train your audio classifier using PA if the recordings are challenging. Partial Instance Exchange (PIE) is a data augmentation technique that complements PA to further enhance the model by increasing the fidelity of input-output pairs regarding their weakly assigned labels. PAPIE has nothing to do with your favorite audio classifier or data augmentation. It tackles the stated problem in challenging and long recordings, similar to bird recordings on Xeno-Canto. My work is about bird species classification, so let me know if you tried it on other tasks and it helped.
