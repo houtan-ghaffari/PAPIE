@@ -31,4 +31,14 @@ It should work with other versions of these libraries too, these are just the on
 Kindly consider citing the following paper if our results were helpful to your work:
 
 ```
+@ARTICLE{10933505,
+  author={Ghaffari, Houtan and Devos, Paul},
+  journal={IEEE Transactions on Audio, Speech and Language Processing}, 
+  title={Robust Weakly Supervised Bird Species Detection Via Peak Aggregation and PIE}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Recording;Training;Birds;Biomedical acoustics;Annotations;Reliability;Deep learning;Biological system modeling;Noise measurement;Data augmentation;Attention pooling;bird species recognition;data augmentation;deep learning;weak supervision},
+  doi={10.1109/TASLPRO.2025.3552983}}
 ```
